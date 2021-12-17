@@ -22,6 +22,8 @@ citep("10.1002/ece3.1509")
 
 citep("10.1890/ES14-00466.1")
 
+citep("10.1016/j.jenvman.2021.113536")
+
 
 ## create ref cited section
 write.bibtex(file = "mark_references.bib")
